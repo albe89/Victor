@@ -47,7 +47,7 @@ void sShowHelp() {
         << "\t -c select the chain of the first pdb file   (default: first chain)\n"
         << "\t -d select the chain  of the second pdb file (default: first chain)\n"
         << "\t -l select the model of the first pdb file\n"
-        << "\t -n select the model of the first pdb file\n"
+        << "\t -n select the model of the second pdb file\n"
         << "\t -o outputFile (deafult: chainID1_chainID2.pdb)\n"
         << "\t -v set verbose\n"
         << "\t -h this message\n"
